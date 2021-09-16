@@ -1,0 +1,38 @@
+[app/ui]
+version = 8.0.0
+modtime = 1631794542.893190000
+
+[app/launcher]
+version = 8.0.0
+modtime = 1631794542.895984000
+
+[views/mirth_connect_overview]
+owner = admin
+version = 8.0.0
+modtime = 1631797752.885543000
+
+[app/package/check_for_updates]
+version = 8.0.0
+modtime = 1631794542.897297000
+
+[]
+access = read : [ * ], write : [ admin, power ]
+export = system
+version = 8.0.0
+modtime = 1631794535.954082000
+
+[nav/default]
+version = 8.0.0
+modtime = 1631794768.938388000
+
+[props/mirthlog]
+owner = admin
+version = 8.0.0
+modtime = 1631797627.264708000
+
+[macros/mirthindex]
+access = read : [ * ], write : [ admin ]
+export = system
+owner = admin
+version = 8.0.0
+modtime = 1631800204.116551000
